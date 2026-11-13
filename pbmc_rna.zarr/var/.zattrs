@@ -1,7 +1,10 @@
 {
   "column-order": [
     "highly_variable",
-    "is_marker"
+    "is_marker",
+    "chrom",
+    "tss",
+    "genome_pos"
   ],
   "_index": "_index",
   "encoding-type": "dataframe",
